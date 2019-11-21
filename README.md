@@ -23,6 +23,26 @@ Porém a falta de oportunidade dificulta essa interação, seja por parte de alu
 
 O **Help Teacher** chega para ligar esses dois perfis, facilitando a comunicação e contratação de serviços. De maneira autônoma e empreendedora os professores podem construir sua base de alunos e ao mesmo tempo alunos podem obter novas experiências.
 
+
+
+### Equipe
+
+  
+
+- Joakim Teixeira Azevedo: Designer, auxiliar no gerenciamento de processos, responsável pela criação do wireframe
+
+- Davi Custodio Alves: Testador, responsável por realizar a homologação do aplicativo
+
+- Allan Wanderley Alves: Organizador da equipe e desenvolvedor. Responsável por gerenciar processos, desenvolveu a aplicação web para suporte ao desenvolvimento, realizou a modelagem e implementação do banco de dados, Criação da documentação e colaborou no desenvolvimento do aplicativo.
+
+- Luiz Felipe Gonçalves: Programador, colaborou no desenvolvimento do aplicativo
+
+- Nicolly Evelym: Programadora, colaborou no desenvolvimento do aplicativo
+
+- Patrick Pereira: Programador, colaborou no desenvolvimento do aplicativo
+
+
+
 ### Wireframe
 
 ![Wireframe](https://i.imgur.com/a4lkEis.png)
@@ -90,22 +110,4 @@ Acesso ao repositório: https://github.com/allanalves23/helpteacher_web
 
 -  **Planejamento de Release:** https://docs.google.com/document/d/1vTKotKvWeH6cw4zc_bhAfjTvpojglOAA9d6jlG6hvEw/edit
 
--  **Base de dados:** https://drive.google.com/file/d/1t2T_gd8GUGF-70YFv7PQUVRUkZjUgaMf/view
-
-  
-
-### Equipe
-
-  
-
-- Joakim Teixeira Azevedo: Designer, auxiliar no gerenciamento de processos, responsável pela criação do wireframe
-
-- Davi Custodio Alves: Testador, responsável por realizar a homologação do aplicativo
-
-- Allan Wanderley Alves: Organizador da equipe e desenvolvedor. Responsável por gerenciar processos, desenvolveu a aplicação web para suporte ao desenvolvimento, realizou a modelagem e implementação do banco de dados, Criação da documentação e colaborou no desenvolvimento do aplicativo.
-
-- Luiz Felipe Gonçalves: Programador, colaborou no desenvolvimento do aplicativo
-
-- Nicolly Evelym: Programadora, colaborou no desenvolvimento do aplicativo
-
-- Patrick Pereira: Programador, colaborou no desenvolvimento do aplicativo
+-  **Base de dados:** https://drive.google.com/file/d/1t2T_gd8GUGF-70YFv7PQUVRUkZjUgaMf/view 
