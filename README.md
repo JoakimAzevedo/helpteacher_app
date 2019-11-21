@@ -84,7 +84,7 @@ O **Help Teacher** chega para ligar esses dois perfis, facilitando a comunicaç�
 
 ### Plataforma WEB
 
-Aplicação desenvolvida com NodeJS, utilizada para alimentar determinadas informações que o aplicação não será responsável por realizar.
+Aplicação desenvolvida com NodeJS, utilizada para alimentar determinadas informações que a aplicação mobile não será responsável por realizar.
 
   
 
