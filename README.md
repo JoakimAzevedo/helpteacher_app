@@ -1,46 +1,32 @@
-
-  
-
 # HELP TEACHER
 
-  
+University project for end of course in mobile application development class
 
-Atividade prática supervisionada - Desenvolvimento de aplicações móveis
-
-  
-
-### Descrição
 
   
+### Description  
 
-Muitas pessoas possuem dúvidas e dificuldades de aprendizado em determinados assuntos. Ao mesmo tempo professores, instrutores e iniciantes desejam transmitir seu conhecimento.
+Many people have learning struggles and difficulties with certain subjects. At the same time, teachers, instructors and beginners want to pass on their knowledge.  
 
-  
+However, the lack of opportunity makes this interaction difficult, whether on the part of students with inferior financial conditions, teachers without opportunities in the market, or instructors trying to get the opportunity to transmit their knowledge.  
 
-Porém a falta de oportunidade dificulta essa interação, seja por parte de alunos com condições financeiras inferiores, professores sem oportunidade no mercado ou instrutores a fim de ter oportunidade de transmitir seu conhecimento.
-
-  
-
-O **Help Teacher** chega para ligar esses dois perfis, facilitando a comunicação e contratação de serviços. De maneira autônoma e empreendedora os professores podem construir sua base de alunos e ao mesmo tempo alunos podem obter novas experiências.
+**Help Teacher** arrives to link these two profiles, facilitating communication and contracting services. In an autonomous and entrepreneurial way, teachers can build up their student base and at the same time students can gain new experiences.
 
 
 
-### Equipe
+### Team
 
-  
+- Joakim Teixeira de Azevedo: Designer, process management assistant and responsible for wireframe creation.
 
-- Joakim Teixeira Azevedo: Designer, auxiliar no gerenciamento de processos, responsável pela criação do wireframe
+- Allan Wanderley Alves: Team manager and developer. Responsible for process management, web application development to add administrator access, database modelation and implementation, documentation creation and collaboration in application development.
 
-- Davi Custodio Alves: Testador, responsável por realizar a homologação do aplicativo
+- Davi Custodio Alves: Tester, responsible for carrying out the approval of the application.
 
-- Allan Wanderley Alves: Organizador da equipe e desenvolvedor. Responsável por gerenciar processos, desenvolveu a aplicação web para suporte ao desenvolvimento, realizou a modelagem e implementação do banco de dados, Criação da documentação e colaborou no desenvolvimento do aplicativo.
+- Luiz Felipe Gonçalves: Programmer, collaborated in the development of the application
 
-- Luiz Felipe Gonçalves: Programador, colaborou no desenvolvimento do aplicativo
+- Nicolly Evelym: Programmer, collaborated in the development of the application
 
-- Nicolly Evelym: Programadora, colaborou no desenvolvimento do aplicativo
-
-- Patrick Pereira: Programador, colaborou no desenvolvimento do aplicativo
-
+- Patrick Pereira: Programmer, collaborated in the development of the application
 
 
 ### Wireframe
@@ -49,65 +35,60 @@ O **Help Teacher** chega para ligar esses dois perfis, facilitando a comunicaç�
 
   
 
-### Imagens
+### Images
 
   ![ImagensApp(1)](https://i.imgur.com/vRVIcj6.png)
+  
 
+1. **Student Login**
 
-1.  **Login para estudantes**
+2. **Teacher Login**
 
-2.  **Login para professores**
+3. **Student account creation**
 
-3.  **Criação de conta para estudantes**
-
-4.  **Criação de conta para professores**
+4. **Teacher account creation**
 
 
 ![ImagensApp](https://i.imgur.com/MBUWhof.png)
 
   
+5. **Teacher listing**
 
-5.  **Listagem de professores**
+6. **Application menu**
 
-6.  **Menu da aplicação**
+7. **Portfolio (part 1)**
 
-7.  **Portfólio (1)**
-
-8.  **Portfólio (2)**
+8. **Portfolio (part 2)**
 
   ![ImagemApp(2)](https://i.imgur.com/gYdIntK.png)
   
-9. **Mudança de dados de estudante**
+9. **Student data editing**
 
-10.  **Mudança de dados de professor**
+10. **Teacher data editing**
 
 
-### Plataforma WEB
 
-Aplicação desenvolvida com NodeJS, utilizada para alimentar determinadas informações que a aplicação mobile não será responsável por realizar.
+### WEB platform
 
+Application developed with NodeJS, used to supply certain information that the mobile application will not be responsible for performing.
   
 
-**Imagens**
 
-![Painel1](https://i.imgur.com/46RubXg.png)
+**Images**
 
-  
+![Painel1](https://i.imgur.com/46RubXg.png)  
 
 ![Painel2](https://i.imgur.com/rBJwRrg.png)
-
   
 
-Acesso ao repositório: https://github.com/allanalves23/helpteacher_web
-
+Repository acess: https://github.com/allanalves23/helpteacher_web
   
 
-### Documentação
 
-  
+### Documentation
 
--  **Declaração de visão do projeto:** https://docs.google.com/document/d/1HR0WcSQhg3sIjOMlRRl2m6KIJYRMWXu2-lC6CJaeJv8/edit
+-  **Project vision statement:** https://docs.google.com/document/d/1HR0WcSQhg3sIjOMlRRl2m6KIJYRMWXu2-lC6CJaeJv8/edit
 
--  **Planejamento de Release:** https://docs.google.com/document/d/1vTKotKvWeH6cw4zc_bhAfjTvpojglOAA9d6jlG6hvEw/edit
+-  **Release planning:** https://docs.google.com/document/d/1vTKotKvWeH6cw4zc_bhAfjTvpojglOAA9d6jlG6hvEw/edit
 
--  **Base de dados:** https://drive.google.com/file/d/1t2T_gd8GUGF-70YFv7PQUVRUkZjUgaMf/view 
+-  **Database:** https://drive.google.com/file/d/1t2T_gd8GUGF-70YFv7PQUVRUkZjUgaMf/view 
