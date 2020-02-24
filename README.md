@@ -1,6 +1,6 @@
 # HELP TEACHER
 
-University project for end of course in mobile application development class
+University final project for mobile application development class
 
 
   
